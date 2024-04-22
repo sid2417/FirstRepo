@@ -8,3 +8,5 @@
 * open yout gitbash goto the repos folder in your local
 * run the clone command
 * git clone <repoName> 
+
+Just I renamed dummy file to Todays file
